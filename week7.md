@@ -1,3 +1,5 @@
+# Quiz Answers
+
 ## Question 1
 **What is common to Parkinson, Alzheimer and Autism?**
 

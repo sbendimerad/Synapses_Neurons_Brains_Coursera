@@ -76,9 +76,47 @@
 - [ ] EPSP results from the opening of synaptic channels associated with a (inward directed) negative battery
 
 ## Question 10
-**Mark the correct sentences regarding the IPSP (Inhibitory Post Synaptic Potential)**
+**Choose the answer that corresponds to the correct order of values in A,B,C & D.**
 
-- [x] Opening of transmitter-gated potassium channels will result with an IPSP
-- [ ] The IPSP results from the opening of synaptic (transmitter-gated) membrane ion channels associated with a positive battery
-- [ ] The opening of transmitter-gated sodium channels will result with an IPSP
--
+- [ ] 10^11, 1, 10^4, 5*10^3
+- [ ] 5*10^3, 1, 10^11, 10^4
+- [ ] 10^4, 5*10^3, 10^11, 1
+- [x] 10^11, 5*10^3, 10^4, 1
+
+## Question 11
+**Classification of neurons may be done using:**
+
+- [x] Based on functional behavior (excitatory or Inhibitory cells)
+- [x] Based on spiking activity pattern
+- [x] Based on anatomical features (Pyramidal Cells, Chandelier cell, etc…)
+- [x] Based on gene expression
+- [x] Neurons with axons vs. neurons without
+- [ ] Their color in a normal tissue
+
+## Question 12
+**Select the answer with the correct order of terms that match the spaces in the sentence below.**
+
+- [x] Synapse, axon, dendrite, vesicles, neurotransmitters, receptors
+- [ ] Dendrite, vesicles, receptors, synapse, axon, neurotransmitters
+- [ ] Synapse, dendrite, axon, receptors, vesicles, neurotransmitters
+- [ ] Receptors, axon, dendrite, vesicles, neurotransmitters, synapse
+- [ ] Synapse, receptors, dendrite, vesicles, neurotransmitters, axon
+
+## Question 13
+**The age of the modern Human (Homo sapiens Sapiens) is:**
+
+- [x] 200,000 years
+- [ ] 2,000 years
+- [ ] 20,000 years
+- [ ] 2,000,000 years
+- [ ] 20,000,000 years
+
+## Question 14
+**Using Brain Machine Interface (BMI):**
+
+- [x] We may control a machine with the brain
+- [x] We may control the brain (or parts of it) with a machine
+- [x] We can stimulate the brain for treatment of Parkinson's - A disease related to an erroneous activity in the basal ganglia (a deep region in our brain)
+- [ ] We are creating a computer inspired by real neurons
+- [ ] We developed treatment for multiple sclerosis - A disease caused by damage to the axonal myelin
+- [ ] We can simulate in the computer a whole cortical column consisting of 10,000 neurons

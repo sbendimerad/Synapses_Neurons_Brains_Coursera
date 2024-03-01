@@ -1,4 +1,4 @@
-# Quiz Responses
+# Quiz Answers
 
 ## Question 7
 **Action Potentials are the neurons output. Action potentials also known as spikes. These spikes are:**
